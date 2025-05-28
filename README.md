@@ -2,7 +2,7 @@
 
 ## Polecenie Projektu
 
-![polecenie](polecenie.jpg)
+![polecenie](Zdjecia/polecenie.jpg)
 
 ## O Projekcie
 
