@@ -1,8 +1,6 @@
 # Symulator-Transmitancji
 
-## Treść Projektu
-
-Projekt opiera się na zaimplementowaniu numerycznego symulatora odpowiedzi układu opisanego transmitancją o ogólnej postaci:
+## Polecenie Projektu
 
 ![polecenie](polecenie.jpg)
 
@@ -24,11 +22,3 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 - **Numeryczna Symulacja (Metoda Eulera):** Umożliwia dokładną analizę odpowiedzi układu.
 - **Charakterystyki Bodego:** Ręcznie implementowana analiza częstotliwościowa układu.
 - **Ocena Stabilności:** Wyznaczanie biegunów układu i ich wizualizacja w płaszczyźnie zespolonej.
-
----
-
-## Jak Uruchomić?
-
-1. Sklonuj repozytorium:
-   ```bash
-   git clone <link do repozytorium>
