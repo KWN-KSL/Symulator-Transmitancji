@@ -25,13 +25,17 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 ### Transmitancja 4 rzędu
 
 <p align="center">#### Menu główne:</p>
+
 ![menu](menu.png)
 
 <p align="center">#### Analiza stabilności:</p>
+
 ![stabilnosc](stabilnosc.png)
 
 <p align="center">#### Odpowiedź układu:</p>
+
 ![odpowiedz](odpowiedz-ukladu.png)
 
 <p align="center">#### Charakterystyka Bodego:</p>
+
 ![charakterystyka](charakterystyka-bodego.png)
