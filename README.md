@@ -4,8 +4,6 @@
 
 ![polecenie](polecenie.jpg)
 
----
-
 ## O Projekcie
 
 Celem projektu było stworzenie narzędzia umożliwiającego:
