@@ -25,18 +25,15 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 ### Transmitancja 4 rzędu
 
 <p align="center">
-#### Menu główne:
-  
-![menu](menu.png)
+  <h4>Menu główne:</h4>
+  <img src="menu.png" alt="menu" />
 
-#### Analiza stabilności:
+  <h4>Analiza stabilności:</h4>
+  <img src="stabilnosc.png" alt="stabilnosc" />
 
-![stabilnosc](stabilnosc.png)
+  <h4>Odpowiedź układu:</h4>
+  <img src="odpowiedz-ukladu.png" alt="odpowiedz" />
 
-#### Odpowiedź układu:
-
-![odpowiedz](odpowiedz-ukladu.png)
-
-#### Charakterystyka Bodego:
-
-![charakterystyka](charakterystyka-bodego.png) </p>
+  <h4>Charakterystyka Bodego:</h4>
+  <img src="charakterystyka-bodego.png" alt="charakterystyka" />
+</p>
