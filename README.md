@@ -26,16 +26,16 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 
 #### Menu główne:
   
-![menu](menu.png)
+![menu](Zdjecia/menu.png)
 
 #### Analiza stabilności:
 
-![stabilnosc](stabilnosc.png)
+![stabilnosc](Zdjecia/stabilnosc.png)
 
 #### Odpowiedź układu:
 
-![odpowiedz](odpowiedz-ukladu.png)
+![odpowiedz](Zdjecia/odpowiedz-ukladu.png)
 
 #### Charakterystyka Bodego:
 
-![charakterystyka](charakterystyka-bodego.png)
+![charakterystyka](Zdjecia/charakterystyka-bodego.png)
