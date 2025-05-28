@@ -24,18 +24,19 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 ## Przykład działania programu
 ### Transmitancja 4 rzędu
 
-<p align="center">#### Menu główne:</p>
-
+<p align="center">
+#### Menu główne:
+  
 ![menu](menu.png)
 
-<p align="center">#### Analiza stabilności:</p>
+#### Analiza stabilności:
 
 ![stabilnosc](stabilnosc.png)
 
-<p align="center">#### Odpowiedź układu:</p>
+#### Odpowiedź układu:
 
 ![odpowiedz](odpowiedz-ukladu.png)
 
-<p align="center">#### Charakterystyka Bodego:</p>
+#### Charakterystyka Bodego:
 
-![charakterystyka](charakterystyka-bodego.png)
+![charakterystyka](charakterystyka-bodego.png) </p>
