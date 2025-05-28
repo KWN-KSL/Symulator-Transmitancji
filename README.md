@@ -20,3 +20,18 @@ Celem projektu było stworzenie narzędzia umożliwiającego:
 - **Numeryczna Symulacja (Metoda Eulera):** Umożliwia dokładną analizę odpowiedzi układu.
 - **Charakterystyki Bodego:** Ręcznie implementowana analiza częstotliwościowa układu.
 - **Ocena Stabilności:** Wyznaczanie biegunów układu i ich wizualizacja w płaszczyźnie zespolonej.
+
+## Przykład działania programu
+### Transmitancja 4 rzędu
+
+#### Menu główne:
+![menu](menu.png)
+
+#### Analiza stabilności:
+![stabilnosc](stabilnosc.png)
+
+#### Odpowiedź układu:
+![odpowiedz](odpowiedz-ukladu.png)
+
+#### Charakterystyka Bodego:
+![charakterystyka](charakterystyka-bodego.png)
